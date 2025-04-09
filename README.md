@@ -4,7 +4,7 @@ This is a simple and fun **Stone Paper Scissor** (Rock Paper Scissors) game made
 
 ## 🌐 Live Demo
 
-👉 [Add your GitHub Pages link here after deployment]
+👉 (https://github.com/anmolpanchal017)
 
 ---
 
